@@ -1,0 +1,19 @@
+{
+  "name": "preyreach",
+  "version": "1.0.1",
+  "description": "Search local-business listings and enrich available contacts, check saved search progress, and manage saved leads. New searches create background work and may use account credits. Data availability and accuracy vary. This connector does not send outreach or guarantee contact deliverability.",
+  "author": {
+    "name": "PreyReach",
+    "url": "https://preyreach.com"
+  },
+  "homepage": "https://preyreach.com",
+  "repository": "https://github.com/preyreach/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "claude",
+    "preyreach",
+    "oauth"
+  ],
+  "icon": "./.claude-plugin/icon.png"
+}

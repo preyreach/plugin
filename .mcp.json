@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "preyreach": {
+      "type": "http",
+      "url": "https://mcp.preyreach.com/mcp"
+    }
+  }
+}
